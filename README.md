@@ -1,6 +1,11 @@
-Insertingn  an image in markdown<<<<<<< HEAD
+Insertingn  an image in markdown
+
+horisontal Ruler in markdown
+
+---
+
 added java code block in markdown groupwork
-=======
-Making lists in markdown# groupwork
-initial commit
->>>>>>> 28de40b6592a983abbd531354a768d67f5bb15ce
+
+Making lists in markdown
+
+# groupwork
