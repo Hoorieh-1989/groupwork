@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Insertingn  an image in markdown<<<<<<< HEAD
 added java code block in markdown groupwork
 =======
 Making lists in markdown# groupwork
